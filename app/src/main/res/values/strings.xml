@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator2</string>
+
+    <!--Actions-->
+    <string name="add">+</string>
+    <string name="min">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+
+    <string name="res">=</string>
+    <string name="del">C</string>
+
+
+    <!--Result field-->
+    <string name="RESULT_FIELD">RESULT FIELD</string>
+</resources>
